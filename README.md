@@ -13,7 +13,7 @@ Welcome to my portfolio, where data science and healthcare intersect. It highlig
 
 ## Education
 - Nottingham Trent University | Msc Data Science | 2023
-- University of Lagos | BPharm. Pharmacy | 2016
+- University of Lagos         | BPharm. Pharmacy | 2016
 
 
 ## Work History
