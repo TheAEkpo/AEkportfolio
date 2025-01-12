@@ -1,6 +1,6 @@
 # AEkportfolio - Data Science Portfolio
 
-Welcome to my portfolio! I'm **Agnes Ekpo**, a versatile Data Scientist with a strong foundation in data science techniques, problem-solving, and storytelling with data.  
+Welcome to my portfolio! I'm a versatile Data Scientist with a strong foundation in data science techniques, problem-solving, and storytelling with data.  
 
 I enjoy working on projects across various domains, from predictive modeling and data visualization to natural language processing and big data analytics. My goal is to showcase a diverse set of skills while tackling real-world challenges with data-driven solutions.
 
@@ -57,6 +57,6 @@ This portfolio is organized to highlight projects across different data science 
 ## 📬 Contact Me
 Feel free to reach out for collaborations, networking, or just to say hi!
 
-- **Email**: [a.ekpo@outlook.com])
+- **Email**: [a.ekpo@outlook.com]
 - **LinkedIn**: [linkedin.com/in/agnes-ekpo](https://linkedin.com/in/agnesekpo)
 - **Portfolio**: [https://theaekpo.github.io/AEkportfolio/](https://theaekpo.github.io/AEkportfolio/) 
