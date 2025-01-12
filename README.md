@@ -1,6 +1,6 @@
 # AEkportfolio - Data Science Portfolio
 
-Welcome to my portfolio! I'm a versatile Data Scientist with a strong foundation in data science techniques, problem-solving, and storytelling with data.  
+Welcome! I'm a versatile Data Scientist with a strong foundation in data science techniques, problem-solving, and storytelling with data.  
 
 I enjoy working on projects across various domains, from predictive modeling and data visualization to natural language processing and big data analytics. My goal is to showcase a diverse set of skills while tackling real-world challenges with data-driven solutions.
 
