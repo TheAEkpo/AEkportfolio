@@ -37,8 +37,8 @@ This portfolio is organized to highlight projects across different data science 
 
 ---
 ## Education
-- Nottingham Trent University | Msc Data Science | 2023
-- University of Lagos         | BPharm. Pharmacy | 2016
+- **MSc Data Science** | Nottingham Trent University   | 2023
+- **BPharm. Pharmacy** | University of Lagos           | 2016
 
 
 ## Work History
