@@ -57,6 +57,6 @@ This portfolio is organized to highlight projects across different data science 
 ## 📬 Contact Me
 Feel free to reach out for collaborations, networking, or just to say hi!
 
-- **Email**: [a.ekpo@outlook.com]
+- **Email**: [a.ekpo@outlook.com](a.ekpo@outlook.com)
 - **LinkedIn**: [linkedin.com/in/agnes-ekpo](https://linkedin.com/in/agnesekpo)
 - **Portfolio**: [https://theaekpo.github.io/AEkportfolio/](https://theaekpo.github.io/AEkportfolio/) 
