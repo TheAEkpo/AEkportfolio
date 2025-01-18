@@ -1,7 +1,9 @@
-# Agnes Ekpo's Portfolio.
-Welcome! I'm a versatile Data Scientist with a strong foundation in data science techniques, problem-solving, and storytelling with data.  
+# Profile.
+Hi! I’m Agnes Ekpo, a data scientist with over five years of experience blending analytical expertise and technical skills to solve real-world problems. With a solid foundation in pharmacy and a master’s degree in data science from the UK, I’ve built a unique career at the intersection of healthcare and technology, using data to uncover insights and drive impactful decision-making.
 
-I enjoy working on projects across various domains, from predictive modeling and data visualization to natural language processing and big data analytics. My goal is to showcase a diverse set of skills while tackling real-world challenges with data-driven solutions.
+I’m proficient in Python, R, SQL, and C#. I enjoy leveraging these skills to create Tableau and Power BI dashboards and reports that turn complex data into clear, actionable strategies. My strong command of Excel, including advanced functions like VLOOKUP and pivot tables, helps me uncover patterns, optimize workflows, and deliver measurable results.
+
+I recently migrated to Canada and am actively seeking opportunities in data analytics and data science. While I have a natural inclination toward roles in healthcare, pharmaceutical, or biopharmaceutical sectors, I am sector-agnostic and confident in my ability to excel in diverse industries. I’m passionate about leveraging my technical expertise to tackle complex challenges and drive meaningful innovations that create value and impact. My portfolio reflects my ability to handle diverse data projects and demonstrates my commitment to continuous learning.
 
 ---
 
