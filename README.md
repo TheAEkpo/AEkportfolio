@@ -1,4 +1,4 @@
-# AEkportfolio - Data Science Portfolio
+# Agnes Ekpo's Portfolio.
 
 Welcome! I'm a versatile Data Scientist with a strong foundation in data science techniques, problem-solving, and storytelling with data.  
 
