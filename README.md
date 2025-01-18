@@ -48,8 +48,8 @@ This portfolio is organized to highlight projects across different data science 
 - **Data Analyst Intern**  | Cristae	| June 2019 – May 2020
 
 ---
-## 🌟 Highlights
-- **Versatile Skillset**: Proficient in Python, R, C#, SQL, Tableau, Power BI, and machine learning libraries like Scikit-learn, TensorFlow, and PyTorch.
+## 🌟 Skills
+- **Technical Skills**: Proficient in Python, R, C#, SQL, Tableau, Power BI, and machine learning libraries like Scikit-learn, TensorFlow, and PyTorch.
 - **Collaborative Approach**: Passionate about solving real-world problems through teamwork and innovation.
 - **Continuous Learning**: Actively exploring advancements in AI, big data, and analytics.
 
@@ -57,7 +57,6 @@ This portfolio is organized to highlight projects across different data science 
 
 ## 📬 Contact Me
 Feel free to reach out for collaborations, networking, or just to say hi!
-
 - **Email**: [a.ekpo@outlook.com](a.ekpo@outlook.com)
 - **LinkedIn**: [linkedin.com/in/agnesekpo](https://linkedin.com/in/agnesekpo)
 - **Portfolio**: [https://theaekpo.github.io/AEkportfolio/](https://theaekpo.github.io/AEkportfolio/) 
