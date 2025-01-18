@@ -42,9 +42,9 @@ This portfolio is organized to highlight projects across different data science 
 
 
 ## Work History
-- **Data Analyst** | Cristae | Sept 2021 - Present
-- **Inventory Analyst** | Evercare | June 2020 – August 2021
-- **Data Analyst Intern** | Cristae	|June 2019 – May 2020
+- **Data Analyst**         | Cristae  | Sept 2021 - Present
+- **Inventory Analyst**    | Evercare | June 2020 – August 2021
+- **Data Analyst Intern**  | Cristae	| June 2019 – May 2020
 
 ---
 ## 🌟 Highlights
