@@ -1,6 +1,6 @@
 title: AGNES EKPO
 logo: docs/assets/headshot-modified.png
 description: Data Scientist | HealthTech | Pharmacist.
-#show-downloads: true
+show-downloads: true
 
 theme: jekyll-theme-minimal
